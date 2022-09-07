@@ -1,2 +1,2 @@
-# latihan-auth
- API untuk auth
+# Latihan Auth
+ API untuk auth menggunakan Express JS dan JWT

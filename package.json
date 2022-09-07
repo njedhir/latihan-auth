@@ -1,0 +1,34 @@
+{
+  "name": "latihan-auth",
+  "version": "1.0.0",
+  "description": "Latihan Auth dengan express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njedhir/latihan-auth.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Wahyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njedhir/latihan-auth/issues"
+  },
+  "homepage": "https://github.com/njedhir/latihan-auth#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mariadb": "^3.0.1",
+    "moment": "^2.29.4",
+    "sequelize": "^6.21.4",
+    "uuidv4": "^6.2.13"
+  }
+}
